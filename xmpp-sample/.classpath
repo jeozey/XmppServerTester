@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/websocket/javax.websocket-api/1.1/javax.websocket-api-1.1.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="src" path="/xmpp-core-client"/>
+  <classpathentry kind="src" path="/xmpp-core"/>
+  <classpathentry kind="src" path="/xmpp-addr"/>
+  <classpathentry kind="var" path="M2_REPO/rocks/xmpp/precis/0.1.0/precis-0.1.0.jar"/>
+  <classpathentry kind="src" path="/xmpp-extensions-client"/>
+  <classpathentry kind="src" path="/xmpp-extensions"/>
+  <classpathentry kind="src" path="/xmpp-debug"/>
+  <classpathentry kind="src" path="/xmpp-websocket"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/tyrus/tyrus-container-jdk-client/1.13/tyrus-container-jdk-client-1.13.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/tyrus/tyrus-client/1.13/tyrus-client-1.13.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/tyrus/tyrus-core/1.13/tyrus-core-1.13.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/tyrus/tyrus-spi/1.13/tyrus-spi-1.13.jar"/>
+</classpath>

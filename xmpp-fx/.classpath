@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/test/java" output="target/test-classes" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="src" path="/xmpp-extensions"/>
+  <classpathentry kind="src" path="/xmpp-core"/>
+  <classpathentry kind="src" path="/xmpp-addr"/>
+  <classpathentry kind="var" path="M2_REPO/rocks/xmpp/precis/0.1.0/precis-0.1.0.jar"/>
+</classpath>
